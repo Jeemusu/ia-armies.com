@@ -1,0 +1,44 @@
+.tabs-wrapper {
+
+}
+
+ul.tabs-nav {
+    list-style: none;
+    margin: 0px 0px 80px 0px;
+}
+
+ul.tabs-nav li {
+    display: inline-block;
+    margin: 0 40px 0 0;
+    border: 1px solid #ccc;
+}
+
+ul.tabs-nav li a {
+    padding: 20px 40px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul.tabs-nav li a:hover {
+    background: #f1f1f1;
+    text-decoration: none;
+}
+
+ul.tabs-nav li.active a {
+    background: #f1f1f1;
+    text-decoration: none;
+}
+
+.tabs-content {
+
+}
+
+.tabs-content div.tab-panel {
+    display: none;
+    visibility: hidden;
+}
+
+.tabs-content div.tab-panel.active {
+    display: block;
+    visibility: visible;
+}

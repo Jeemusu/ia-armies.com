@@ -1,0 +1,190 @@
+span.surge {
+    background-image: url(/images/surge.png);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 9px;
+    display: inline-block;
+}
+
+span.damage {
+    background-image: url(/images/damage.png);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 0 0 0;
+}
+
+span.block {
+    background-image: url(/images/block.png);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 0 0 0;
+}
+
+span.evade {
+    background-image: url(/images/evade.png);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 0 0 0;
+}
+span.dodge {
+    background-image: url(/images/dodge.png);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 0 0 0;
+}
+span.action {
+    background-image: url(/images/action.png);
+    background-repeat: no-repeat;
+    width: 19px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 3px 0 0;
+}
+span.strain {
+    background-image: url(/images/strain.png);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -3px 0 0 0;
+}
+
+span.imperial-icon-sp {
+    background-image: url(/images/imperial-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+span.rebel-icon-sp {
+    background-image: url(/images/rebel-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+span.mercenary-icon-sp {
+    background-image: url(/images/mercenary-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+
+span.ranged-icon-sp {
+    background-image: url(/images/ranged-small.png);
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+span.melee-icon-sp {
+    background-image: url(/images/melee-small.png);
+    background-repeat: no-repeat;
+    width: 13px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+.icon-ranged {
+    float:left;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-image: url(/images/ranged.png);
+    background-repeat: no-repeat;
+    background-position: 5px 5px ;
+}
+
+.icon-melee {
+    float:left;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-image: url(/images/melee.png);
+    background-repeat: no-repeat;
+    background-position: 5px 5px ;
+}
+
+span.imperial-icon-sp {
+    background-image: url(/images/imperial-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+span.rebel-icon-sp {
+    background-image: url(/images/rebel-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+span.mercenary-icon-sp {
+    background-image: url(/images/mercenary-small.png);
+    background-repeat: no-repeat;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -5px 0 0 0;
+}
+
+span.icon-imperial {
+    float:left;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-image: url(/images/imperial.png);
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+}
+
+span.icon-mercenary {
+    float:left;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-image: url(/images/merc.png);
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+}
+
+span.icon-rebel {
+    float:left;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-image: url(/images/rebel.png);
+    background-repeat: no-repeat;
+    background-position: 0 0 ;
+}
+
+

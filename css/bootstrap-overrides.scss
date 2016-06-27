@@ -1,0 +1,19 @@
+/* 
+   Responsive Overide
+*/
+
+.container{
+    max-width: none !important;
+    width: 970px;
+}
+
+@media (min-width: 1px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+
+.container {
+    min-width: 1170px !important;
+    max-width: none !important;
+}
